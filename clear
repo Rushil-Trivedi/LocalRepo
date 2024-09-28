@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 00a6ada..65ca2b2 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,6 +8,6 @@[m
+   </head>[m
+   <body>[m
+     <p>this is a new repo</p>[m
+[31m-    <p>this is a new feature. (button)</p>[m
+[32m+[m[32m    <p>this is a new feature.(dropdown)</p>[m
+   </body>[m
+ </html>[m
